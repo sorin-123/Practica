@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tagtable name="joc">
+  <!-- exported by FACTORY I/O version 2.5.10 -->
+  <Tag type="Bool" addr="%I200.0">Retroreflective Sensor 1</Tag>
+  <Tag type="Bool" addr="%I200.1">Retroreflective Sensor 2</Tag>
+  <Tag type="Bool" addr="%I200.2">Retroreflective Sensor 3</Tag>
+  <Tag type="Bool" addr="%I200.3">Retroreflective Sensor 4</Tag>
+  <Tag type="Bool" addr="%Q200.1">Stacker Crane 0 Lift</Tag>
+  <Tag type="Bool" addr="%Q200.2">Stacker Crane 0 (Right)</Tag>
+  <Tag type="Bool" addr="%Q200.3">Stacker Crane 0 (Left)</Tag>
+  <Tag type="Int" addr="%QW100">Pusher 6 Set Point(V)</Tag>
+  <Tag type="Int" addr="%QW102">Curved Roller Conveyor 0 (V)</Tag>
+  <Tag type="Int" addr="%QW104">Roller Conveyor (2m) 0 (V)</Tag>
+  <Tag type="Int" addr="%QW106">Roller Conveyor (4m) 0 (V)</Tag>
+  <Tag type="Int" addr="%QW108">Roller Conveyor (6m) 0 (V)</Tag>
+  <Tag type="Int" addr="%QW110">Loading Conveyor 0 (V)</Tag>
+  <Tag type="Int" addr="%QW112">Stacker Crane 0 Target Position</Tag>
+</Tagtable>
